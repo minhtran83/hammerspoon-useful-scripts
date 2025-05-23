@@ -63,29 +63,26 @@ Below is a list of available scripts. Click on a script name to view its code an
 
 #### (Other Window Management Scripts - Add more as you create them)
 *   [Example Basic Tiler](./window_management/basic_tiler.lua): (If you have a simpler version or a different approach)
-*   ...
 
 ---
 
 ### 🚀 Application Management
-*   [Quick Launch/Focus](./application_management/quick_launch.lua): Hotkeys to quickly launch or focus frequently used applications.
-*   *(Add more as you create them)*
+* 
 
 ---
 
 ### ✨ Productivity Helpers
-*   [Caffeine Clone](./productivity/caffeine_clone.lua): Prevent your Mac from sleeping with a toggle.
-*   *(Add more as you create them)*
+*
 
 ---
 
 ### ⚙️ System Tweaks
-*   *(Add scripts for volume control, brightness, etc.)*
+*  
 
 ---
 
 ### 🛠️ Other Utilities
-*   *(Add any other miscellaneous scripts)*
+*   
 
 ---
 
