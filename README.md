@@ -61,11 +61,6 @@ Below is a list of available scripts. Click on a script name to view its code an
 
 ---
 
-#### (Other Window Management Scripts - Add more as you create them)
-*   [Example Basic Tiler](./window_management/basic_tiler.lua): (If you have a simpler version or a different approach)
-
----
-
 ### 🚀 Application Management
 * 
 
@@ -116,6 +111,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 *   The [Hammerspoon Team](https://github.com/Hammerspoon/hammerspoon/graphs/contributors) for creating and maintaining such a powerful tool.
 *   The wider Hammerspoon community for inspiration and shared knowledge.
+*   A [ShiftIt](https://github.com/fikovnik/ShiftIt) like [Hammerspoon](http://www.hammerspoon.org/) window management configuration https://github.com/peterklijn/hammerspoon-shiftit
 
 ---
 
